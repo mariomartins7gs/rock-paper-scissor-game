@@ -7,6 +7,10 @@ A classic Rock-Paper-Scissors game developed in Python as part of my Business Ap
 - Modular code structure (utils.py for logic).
 - Input validation to ensure a smooth user experience.
 
+## Game Demo
+Check out the game in action (5 rounds flow):
+[Watch the Video Demo](./rock_paper_scissor_game.mp4)
+
 ## 🛠️ How to run
 1. Clone the repository:
    `git clone https://github.com/mario7gs/rock-paper-scissor-game.git`
