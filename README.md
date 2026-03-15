@@ -10,10 +10,7 @@ A classic Rock-Paper-Scissors game developed in Python as part of my Business Ap
 ## Game Demo
 Ecco una breve dimostrazione del flusso di gioco (5 round):
 
-https://github.com/mariomartins7gs/rock-paper-scissor-game/assets/mariomartins7gs/rock_paper_scissor_game.mp4
-
-<video src="rock_paper_scissor_game.mp4" controls="controls" style="max-width: 600px;">
-</video>
+[[ Clicca qui per vedere il video demo ]](./rock_paper_scissor_game.mp4)
 
 ## 🛠️ How to run
 1. Clone the repository:
